@@ -1,0 +1,26 @@
+# compressed files
+*.tar
+*.gz
+*.zip
+
+# model files
+*.h5
+*.pb
+*.pd
+*.pth
+*.pt
+*.ckpt
+*.pbtxt
+*.onnx
+*.xml
+*.bin
+
+# folders
+env
+src
+dst
+tmp
+outputs
+__pycache__
+.ipynb_checkpoints
+dataset
