@@ -1,7 +1,15 @@
 # diffusion_model
 diffusion model
 
+# notes
+
+`pip install --force-reinstall charset-normalizer==3.1.0`
+
 # references
+
+[Colab diffusion_model.ipynb](https://colab.research.google.com/drive/1sjy9odlSSy0RBVgMTgP7s99NXsqglsUL?usp=sharing#scrollTo=LQnlc27k7Aiw)
+
+[denoising-diffusion-pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch)
 
 [What are Diffusion Models?](https://www.youtube.com/watch?v=fbLgFrlTnGU)
 
@@ -13,4 +21,6 @@ diffusion model
 
 [Diffusion Models | PyTorch Implementation](https://www.youtube.com/watch?v=TBCRlnwJtZU)
 
-[About AssemblyAI](https://www.assemblyai.com/blog)
+[AssemblyAI Blog](https://www.assemblyai.com/blog)
+
+[Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models)
