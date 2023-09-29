@@ -3,8 +3,6 @@ diffusion model
 
 # notes
 
-`pip install --force-reinstall charset-normalizer==3.1.0`
-
 # references
 
 [Colab diffusion_model.ipynb](https://colab.research.google.com/drive/1sjy9odlSSy0RBVgMTgP7s99NXsqglsUL?usp=sharing#scrollTo=LQnlc27k7Aiw)
