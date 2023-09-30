@@ -5,6 +5,8 @@ diffusion model
 
 # references
 
+[ Diffusion Models - Live Coding Tutorial 2.0 ](https://www.youtube.com/watch?v=S_il77Ttrmg)
+
 [Colab diffusion_model.ipynb](https://colab.research.google.com/drive/1sjy9odlSSy0RBVgMTgP7s99NXsqglsUL?usp=sharing#scrollTo=LQnlc27k7Aiw)
 
 [denoising-diffusion-pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch)
