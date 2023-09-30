@@ -1,4 +1,4 @@
-# diffusion_model
+# DDPM
 diffusion model
 
 # notes
