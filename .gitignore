@@ -16,6 +16,7 @@
 *.bin
 
 # folders
+cifar10
 env
 src
 dst
